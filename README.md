@@ -36,7 +36,7 @@ National Institute of Technology, Tiruchirappalli (NIT Trichy), India (8.17/10)
 
 ## Selected Projects
 
-### [Closed-Loop LED Brightness Control](https://github.com/your-username/LDR-LED-Closed-Loop-Control)
+### [Closed-Loop LED Brightness Control](https://github.com/vianfrederick/LDR-LED-Closed-Loop-Control)
 
 Arduino-based closed-loop LED brightness control using LDR feedback, PID control, PWM, filtering, and a user-adjustable setpoint.
 
