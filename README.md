@@ -1,8 +1,19 @@
 # Hi, I'm Vian 👋
 
-I'm a Robotics Master's student with a background in Mechanical Engineering, currently building hands-on projects in control systems, embedded systems, and mechatronics.
+I'm a Robotics Master's student with a background in Mechanical Engineering and industry experience in supply chain analytics and process automation.
 
-I'm interested in robotics, automation, embedded control, and practical engineering projects.
+I'm currently focusing on robotics, mechatronics, control systems, and embedded systems through hands-on projects, while building on my experience with programming, data, and engineering tools.
+
+## Work Experience
+
+**Supply Chain Analyst — Daimler India Commercial Vehicles (DICV)**  
+India
+
+- Worked on supply chain analytics, process automation, reporting, and dashboard development using tools such as Python, Power BI, Excel, Power Query, and Power Automate.
+
+- My work included developing dashboards, automating repetitive processes, and working with operational data to improve visibility and decision-making. 
+
+- I also worked on import supply chain operations involving Brazil and Germany.
 
 ## Education
 
@@ -33,6 +44,8 @@ National Institute of Technology, Tiruchirappalli (NIT Trichy), India (8.17/10)
 **Embedded & Control:** Arduino, PID Control, Sensors & Actuators
 
 **Engineering & Simulation:** SolidWorks, ANSYS, MATLAB
+
+**Data & Automation:** Power BI, Excel, Power Query, Power Automate, SharePoint
 
 ## Selected Projects
 
